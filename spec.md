@@ -1,12 +1,6 @@
-1.  overview
-blah
-blah  
-2.features  
-  2.2. sdff  
-  2.1 dsffsdf  
-  2.3 dfsdff    
-3. dssdc    
-     dsfsdfsfd  
-     dffds  
-     dsfsdf  
-     
+1 FEATURES  
+1.1  FEATURE-1  
+1.2  FEATURE-2  
+1.4  SADFSDFSDF  
+1.3  FEATURE-3   
+
